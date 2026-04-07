@@ -11,5 +11,5 @@
 3.  作为个人GitHub主页的首个公开项目，用于展示基础的代码仓库管理能力
 
 ## 使用方法
-1.  克隆仓库到本地：打开终端，执行 `git clone https://github.com/你的GitHub用户名/lujiamei0802`，将远程仓库同步到本地环境
+1.  克隆仓库到本地：打开终端，执行 `git clone https://github.com/lujiamei0802/lujiamei-first-project`，将远程仓库同步到本地环境
 2.  本地修改与提交：在本地修改文件后，执行 `git add .`、`git commit -m "提交说明"`、`git push` 命令，将修改同步到远程仓库
