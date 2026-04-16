@@ -1,1 +1,7 @@
+#（1）fork
 
+（2）修改代码
+
+（3）提交pull request
+
+（4）merge
